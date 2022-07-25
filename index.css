@@ -35,7 +35,7 @@ header{
     align-items: center;
     justify-content: space-between;
     background: transparent;
-    padding: 25px 15%;
+    padding: 25px 10%;
     transition: .3s;
 }
 
@@ -143,7 +143,8 @@ span{
 }
 
 header.sticky{
-    padding: 12px 10%;
+    width: 100%;
+    padding: 12px 1%;
     background: var(--main-color);
 }
 

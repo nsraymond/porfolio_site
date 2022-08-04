@@ -144,7 +144,7 @@ span{
 
 header.sticky{
     width: 100%;
-    padding: 12px 1%;
+    padding: 12px 10%;
     background: var(--main-color);
 }
 
@@ -293,7 +293,7 @@ header.sticky{
 }
 
 .box img{
-    width: 100%;
+    width: 90%;
     /* width: 430px; */
     height: 300px;
     border-radius: 10px;
@@ -500,7 +500,7 @@ form textarea{
         order: 2;
     }
     .box img{
-        max-width: 100%;
+        max-width: 90%;
         width: 200px;
         height: 200px;
     }
@@ -555,7 +555,7 @@ form textarea{
     }
 
     .box{
-        max-width: 100%;
+        max-width: 90%;
     }
 
     .box img{
@@ -632,7 +632,7 @@ form textarea{
     }
 
     .box{
-        max-width: 100%;
+        max-width: 10%;
         
     }
 

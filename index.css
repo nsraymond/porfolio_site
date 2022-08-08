@@ -501,7 +501,7 @@ form textarea{
     }
     .box img{
         max-width: 90%;
-        width: 200px;
+        width: 90%;
         height: 200px;
     }
     :root{
@@ -555,7 +555,7 @@ form textarea{
     }
 
     .box{
-        max-width: 90%;
+        max-width: 100%;
     }
 
     .box img{
@@ -632,7 +632,7 @@ form textarea{
     }
 
     .box{
-        max-width: 10%;
+        max-width: 100%;
         
     }
 

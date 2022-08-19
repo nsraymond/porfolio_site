@@ -19,6 +19,10 @@
     --p-font: 1.1rem;
 }
 
+html {
+    overflow-y: scroll; 
+}
+
 body {
     background: var(--bg-color);
     color: var(--text-color);
@@ -35,7 +39,7 @@ header{
     align-items: center;
     justify-content: space-between;
     background: transparent;
-    padding: 25px 10%;
+    padding: 25px 5%;
     transition: .3s;
 }
 
@@ -77,7 +81,7 @@ header{
 
 
 section{
-    padding: 120px 15%;
+    padding: 120px 10%;
 }
 
 .home {
@@ -583,7 +587,7 @@ form textarea{
     }
 
     section{
-        padding: 80px 3%;
+        /* padding: 80px 3%; */
         transition: .2s;
     }
     .logo{

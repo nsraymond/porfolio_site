@@ -18,9 +18,6 @@
     --h2-font: 3.2rem;
     --p-font: 1.1rem;
 }
-html{
-    overflow-x: hidden;
-}
 
 body {
     background: var(--bg-color);
@@ -40,7 +37,6 @@ header{
     background: transparent;
     padding: 25px 10%;
     transition: .3s;
-    overflow: hidden;
 }
 
 .logo{
@@ -150,18 +146,15 @@ header.sticky{
     width: 100%;
     padding: 12px 10%;
     background: var(--main-color);
-    overflow: hidden;
 }
 
 .sticky .navbar a::after{
     background: var(--text-color);
-    overflow: hidden;
 }
 
 .sticky .h-btn{
     background: var(--text-color);
     color: #000;
-    overflow: hidden;
 }
 
 .about{
